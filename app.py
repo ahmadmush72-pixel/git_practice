@@ -5,3 +5,9 @@ def change_number(list):
 
 change_number(nums)
 print(nums)  # Output: [10, 2, 3, 4,
+
+
+num2 = ["mushtaq ahmad","ashfaqahmad"];
+
+for items in num2:
+    print(num2)
