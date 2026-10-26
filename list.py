@@ -3,3 +3,4 @@ list = [1,2,3]
 for item in list:
 
     print(item)
+    print("sdjfldsj")
