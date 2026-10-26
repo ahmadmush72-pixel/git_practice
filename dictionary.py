@@ -18,3 +18,5 @@ print(a[1])
 
 
 print("update2")
+
+print("practice of add restore command")
